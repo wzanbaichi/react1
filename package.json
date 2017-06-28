@@ -15,5 +15,5 @@
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   },
-  "homepage" : "https://wzanbaichi.github.io/react1/build/index.html"
+  "homepage" : "https://wzanbaichi.github.io/react1/build"
 }
